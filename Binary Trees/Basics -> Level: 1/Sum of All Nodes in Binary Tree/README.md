@@ -11,8 +11,8 @@
       3   4
      / \   \
     1   2   6 -> sum = 6 + 0 + 0, it will return sum = 6
-               / \
-           NULL NULL -> if (root == NULL) return 0;
+           / \
+        NULL NULL -> if (root == NULL) return 0;
 
 
 
